@@ -7,7 +7,7 @@ function setup() {
   p5Canvas = createCanvas(800, 600);
   p5Canvas.parent("#p5-canvas");
   myName = select("#my-name");
-  myName.html("[Your Name Here]");
+  myName.html("Valencia");
 }
 
 
